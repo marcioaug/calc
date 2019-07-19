@@ -31,6 +31,6 @@ public class CalcTest {
 
     @Test
     public void sumOneAndZeroTest() {
-        Assert.assertEquals(2, calc.sum(1, 0));
+        Assert.assertEquals(1, calc.sum(1, 0));
     }
 }
